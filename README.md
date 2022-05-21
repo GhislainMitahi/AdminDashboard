@@ -2,4 +2,4 @@
 
 [Live Preview](https://lively-dashboard-818435.netlify.app/)
 
-This is a Dashboard that i done to my skill about vanila css, anyway you can view it and if you find it works for you, fell free to take and t in your case
+The admin dashboard project was created for three main purposes which are analytic(to identify historical trends, establish targets, predict outcomes, and/or discover insights), operational (to monitor, measure and manage processes in real-time), and strategic (to track key performance indicators (KPIs) and process towards established targets)
