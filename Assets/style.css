@@ -87,7 +87,16 @@
         width: 100%;
         margin-top: 48px;
     }
+    /*----added hover effective */
+
+    #sidebar .side-menu a:hover {
+        background: #000000;
+        margin-left: 0;
+        color: white !important;
+}
     
+
+
     #sidebar .side-menu li {
         height: 48px;
         background: transparent;
